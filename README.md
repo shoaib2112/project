@@ -1,2 +1,1 @@
-# project
-sample project for IMS
+# javaproject
